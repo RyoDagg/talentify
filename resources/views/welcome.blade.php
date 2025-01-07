@@ -24,5 +24,17 @@
             </div>
         </section>
 
+        <section class="space-y-4">
+            <x-section-heading>Recent Jobs</x-section-heading>
+            <div class="flex flex-col space-y-4">
+                <x-job-card-wide />
+                <x-job-card-wide />
+                <x-job-card-wide />
+                <x-job-card-wide />
+                <x-job-card-wide />
+
+            </div>
+        </section>
+
     </div>
 </x-layout>

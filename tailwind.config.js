@@ -7,6 +7,10 @@ export default {
         extend: {
             fontFamily: {
                 sans: ["Figtree", ...defaultTheme.fontFamily.sans],
+                "hanken-grotesk": [
+                    "Hanken Grotesk",
+                    ...defaultTheme.fontFamily.sans,
+                ],
             },
         },
     },
