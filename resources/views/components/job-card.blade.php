@@ -9,7 +9,7 @@
             <x-tag>Development</x-tag>
         </div>
         <div>
-            <img src="https://picsum.photos/50" alt="">
+            <img src="https://picsum.photos/50" class="rounded-xl" alt="">
         </div>
     </div>
 </div>
